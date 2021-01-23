@@ -1,0 +1,4 @@
+baseURL = "https://citygardenbeauty677.vercel.app"
+languageCode = "en-us"
+title = "City Garden 2021"
+theme = "tale-hugo-master"
